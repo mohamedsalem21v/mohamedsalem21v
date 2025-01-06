@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **competitive programming.**
 
-- 💬 Ask me about **internship for students.**
+- 💬 Asking about **internship for students.**
 
 - 📫 How to reach me **mohamedsalem462006@gmail.com**
 
