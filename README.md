@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salem</h1>
-<h3 align="center">A computer science student from Egypt</h3>
+<h3 align="center">A computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsalem21v&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsalem21v" /> </p>
 
