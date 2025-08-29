@@ -60,6 +60,6 @@
     height="30" width="40" 
 /></a>
 </p>
-<hr/>
+<!-- <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem21v" alt="Mohamed_Salem" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem21v" alt="Mohamed_Salem" /></p> -->
