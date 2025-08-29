@@ -52,6 +52,12 @@
     alt="Mohammed_Salem" 
     height="30" width="40" 
 /></a>
+    <a href="https://www.instagram.com/m.salem_88v/" target="blank">
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+    alt="Mohammed_Salem" 
+    height="30" width="40" 
+/></a>
 </p>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
