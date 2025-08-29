@@ -1,27 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salem</h1>
-<h3 align="center">A computer science student</h3>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=9C36B5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Mohammed+Salem!;💜+CS+Student;ECPC+Finalist;;)](https://git.io/typing-svg)
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsalem21v&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsalem21v" /> </p>
+- 😃I'm Interested in **Competitive Programming** and **Computer Science**
+- 🌱 I’m currently learning **Software Engineering**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsalem21v" alt="mohamedsalem21v" /></a> </p>
+<h3 align="left">Competitive Programming</h3>
+<p align="left">
 
-- 🌱 I’m currently learning **competitive programming.**
-
-- 💬 Asking about **internship for students.**
-
-- 📫 How to reach me **mohamedsalem462006@gmail.com**
+<a 
+    href="[https://codeforces.com/profile/islam_imad](https://codeforces.com/profile/-SOLOM-)" 
+    target="blank"><img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohammed_Salem" 
+    height="30" width="40" 
+/></a>
+<a 
+    href="https://atcoder.jp/users/MoSaL" 
+    target="blank"><img align="center" 
+    src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" 
+    alt="Mohammed_Salem" 
+    height="30" width="40" 
+/></a>
+<a href="https://leetcode.com/u/MoSalem_88V/" target="blank">
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohammed_Salem" 
+    height="30" width="40"
+/></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/m.salem_88v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.salem_88v" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/-solom-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="-solom-" height="30" width="40" /></a>
+<a  
+    href="https://x.com/MoSalem_v" 
+    target="blank">
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+    alt="Mohamed_Salem" 
+    height="30" 
+    width="40" 
+/></a>
+<a href="https://www.linkedin.com/in/mohammed-salem-3217b3225/" target="blank">
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="Mohamed_Salem" 
+    height="30" width="40" 
+/></a>
+<a href="https://www.facebook.com/mohammed.salem.512969/" target="blank">
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+    alt="Mohammed_Salem" 
+    height="30" width="40" 
+/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsalem21v&show_icons=true&locale=en&layout=compact" alt="mohamedsalem21v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedsalem21v&show_icons=true&locale=en" alt="mohamedsalem21v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem21v&" alt="mohamedsalem21v" /></p>
+<hr/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedsalem21v" alt="GitHub Streak" /></a>
