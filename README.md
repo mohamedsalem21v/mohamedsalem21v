@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=9C36B5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Mohammed+Salem!;💜+CS+Student;ECPC+Finalist;;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=9C36B5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Mohammed+Salem!;+Computer+Science+student;ECPC+Finalist;;)](https://git.io/typing-svg)
 </div>
 
 - 😃I'm Interested in **Competitive Programming** and **Computer Science**
@@ -54,4 +54,5 @@
 /></a>
 </p>
 <hr/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedsalem21v" alt="GitHub Streak" /></a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem21v" alt="Mohamed_Salem" /></p>
