@@ -2,6 +2,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Mohammed+Salem!;+Computer+Science+student;ECPC+Finalist;;)](https://git.io/typing-svg)
 
+
 - 😃I'm Interested in **Competitive Programming** and **Computer Science**
 - 🌱 I’m currently learning **Software Engineering**
 
