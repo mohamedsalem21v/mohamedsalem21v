@@ -4,7 +4,7 @@
 
 </div>
 
-- 😃I'm Interested in **Competitive Programming** and **Computer Science**
+- 😃I'm Interested in **Competitive Programming** and **Consle Projects**
 - 🌱 I’m currently learning **Software Engineering**
 
 <h3 align="left">Competitive Programming</h3>
