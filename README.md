@@ -3,5 +3,5 @@
 - :school: `Computer Science` at the `Faculty of Computers & Informatics` at **Suez Canal University**.
 - 👨‍💻 Competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - 💻 `ECPC Finalist` and `Pupil` at **codeforces**.
-- 👨‍💻 Currently learning **`Competitive Programming`**, **`Database`**, **`GoLang`**.
+- 👨‍💻 Currently learning `Competitive Programming`, `Database`, `GoLang`.
 - 📫 How to reach me **mohamedsalem462006@gmail.com**
